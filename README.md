@@ -3,11 +3,11 @@
 This repository contains an interactive dashboard that visualizes wildfires across Spain between 2013 and 2023.
 The dashboard is built with Python, Plotly Dash, and GeoPandas, and it integrates multiple geo-spatial and statistical visualizations to provide insights into wildfire patterns, causes, and regional impacts over the decade.
 
-🌍 ##Purpose
+🌍 ## Purpose
 
 This project was created to explore the spatial and temporal distribution of wildfires in Spain and to illustrate how interactive geo-spatial dashboards can support storytelling and analysis of environmental data.
 
-📂 ##Data
+📂 ## Data
 
 The dashboard uses two main datasets:
 
@@ -17,7 +17,7 @@ Additionally, a GeoJSON file (georef-spain-comunidad-autonoma.geojson) is requir
 ___________________________________________________________________
 
 
-▶️ ##Running the Dashboard
+▶️ ## Running the Dashboard
 
 Installation & Setup
 
