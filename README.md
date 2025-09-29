@@ -12,6 +12,7 @@ This project was created to explore the spatial and temporal distribution of wil
 The dashboard uses two main datasets:
 
 (1)fires-all 2.csv – aggregated wildfire data by autonomous communities.
+
 (2)fires-all-more.csv – detailed fire event records with latitude/longitude and causes.
 Additionally, a GeoJSON file (georef-spain-comunidad-autonoma.geojson) is required to display regional boundaries.
 ___________________________________________________________________
